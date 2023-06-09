@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **morozgrigoriyy@gmail.com**
 
-- 📄 Know about my experiences [Resume](/Users/gymoroz/Desktop/untitled folder/MorozGY_resume.pdf)
+- 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1PQZGamitNMD-tP4RGksQwta_dfx_OEyE/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
