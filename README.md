@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Grigorii Moroz</h1>
 <h3 align="center">A ML and Oil & Gas Engineer</h3>
 
-- 🔭 I’m currently working on [HandsOnMachineLearning repo](https://github.com/Kekkerinotaco/Hands-on-machine-learning)
+- 🔭 I’m currently working on [WellLogCurve_Prediction](https://github.com/Kekkerinotaco/WellLogCurve_Prediction)
 
 - 🌱 I’m currently learning **SQL, pytorch**
 
